@@ -1,0 +1,1 @@
+Rozpakuj folder. W Visual Studio Code uruchom terminal i wpisz: npm install, a potem: npm run dev.
